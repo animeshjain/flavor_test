@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "802054992050",
+    "firebase_url": "https://flavor-test-prod.firebaseio.com",
+    "project_id": "flavor-test-prod",
+    "storage_bucket": "flavor-test-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802054992050:android:a1f34d43887a7b50",
+        "android_client_info": {
+          "package_name": "com.kanily.flavortest.prod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802054992050-prp5sgqmq9je1ngjvegcpp01a2dojuoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF713PG5cg8MgjU99_6Vrr0ZPVpWnLRvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802054992050-prp5sgqmq9je1ngjvegcpp01a2dojuoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
