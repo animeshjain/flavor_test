@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>802054992050-tbkn54em6eu5pt02u884m1vgfc1uk7vv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.802054992050-tbkn54em6eu5pt02u884m1vgfc1uk7vv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDXXBGuF-ZB5eO5YRssQPOdJflCJdoUuNs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>802054992050</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kanily.flavortest.prod</string>
+	<key>PROJECT_ID</key>
+	<string>flavor-test-prod</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flavor-test-prod.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:802054992050:ios:a1f34d43887a7b50</string>
+	<key>DATABASE_URL</key>
+	<string>https://flavor-test-prod.firebaseio.com</string>
+</dict>
+</plist>
